@@ -1,5 +1,5 @@
 ---
-title: Making our new blogs
+title: 10-09-18 Making our new blogs
 layout: post
 author: karan.singh
 permalink: /making-our-new-blogs/
