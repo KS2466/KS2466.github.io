@@ -113,9 +113,15 @@ img {
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
-  border-width: 70%;
 }
-
+ th, td {
+  padding: 15px;
+  text-align: left;
+  vertical-align: center;
+}
+ table {
+  width: 100%;
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
@@ -125,11 +131,7 @@ table, th, td {
   font-style: italic;
   color: $gray;
 }
- table, th, td {
-  border: 1px solid black; 
-  border-collapse: collapse;
-}
-  
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
