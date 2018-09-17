@@ -122,6 +122,9 @@ table, th, td {
  table {
   width: 100%;
 }
+ html {
+  background-image: linear-gradient (blue, red);
+}
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
