@@ -1,5 +1,5 @@
 ---
-title: Connecting and using the FUZE computers
+title: 17-09-18 Connecting and using the FUZE computers
 layout: post
 author: karan.singh
 permalink: /connecting-and-using-the-fuze-computers/
