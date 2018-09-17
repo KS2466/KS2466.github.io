@@ -18,7 +18,8 @@ html {
 }
 
 body {
-	background-image: linear-gradient (blue, red);
+	background-image: url ("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/acgu0vt/abstract-crystalized-moving-fractal-motion-background-good-for-churches-lyrics-presentations-screen-savers-etc_rpwr11ed__F0000.png")
+  background-repeat: no-repeat;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -31,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: Trebuchet MS;
   color: $darkerGray;
   font-weight: bold;
 
